@@ -1,0 +1,38 @@
+/* CSS Document */
+.nav {
+        list-style-type: none;
+        margin: 0;
+        padding: 5px;
+        overflow: hidden;
+        border: 1px solid #e7e7e7;
+        background-color:#9300CA;
+        width: 100;
+        display: inline-block;
+        border-color: white; 
+}
+    
+.menu {
+    float: left;
+    border: 1px solid #FFFFFF;
+}
+
+.menu a {
+    display: block;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: purple;
+}
+
+.list {
+    margin: auto;
+    text-align: center;
+}
+
+.name {
+    margin: auto;
+}
